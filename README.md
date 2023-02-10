@@ -1,10 +1,10 @@
 # project-markdown
 
 **Group Members**
-- Michael Dulin
-- Richard Acosta
-- Joel Myrtil
-- Deon Curry
+- [Michael Dulin](https://github.com/MichaelDulin)
+- [Richard Acosta](https://github.com/acostavs)
+- [Joel Myrtil](https://github.com/JMyrtil)
+- [Deon Curry](https://github.com/Curryfrom3)
 
 
 # For prep #1
