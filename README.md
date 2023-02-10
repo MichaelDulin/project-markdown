@@ -30,21 +30,27 @@
   
 **Conflict Plan**
 1. Process to resolve conflict:
-  - Outside perspective (member not involved)
-  - Addressing issues headon
-  - Openmindedness
+  - If conflict arises, first approach:
+    - Addressing issues head-on
+  - Second approach:
+    - Bring in outside opinion (member) 
+    - Mediation
 2. Handling one member taking over:
-  - Mob mentality
+  - Maintaining integrity 
+  - All members hold eachother accountable
+  - We have different roles, but all equally important (no leader / all leaders)
   - Maintaining daily goals
 3. Keeping all members on the same level (skill / scope)
-  - We know eachothers strengths now
-  - We can planm accordingly
+  - Knowing eachothers strengths
+  - We can plan accordingly (not overburdening members with heavy workload)
   - Not being afraid of asking questions
 4. Addressing members who are not carying their weight:
   - Find reason why they are behind (behavioral / competency)
   - Address it directly
+  - Group discussion 
 5. Conflict escalation (if step 4 fails):
   - Go back to the start of this md file and readdress their strengths / weaknesses
+  - else, bring in outside opinion (higher authority)
   
 **Communication Plan**
 1. Availability:
