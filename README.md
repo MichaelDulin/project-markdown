@@ -113,3 +113,34 @@
     - Daily (hopefuly)
   4. How to communicate it is time to merge:
     - Set schedule (code review / debrief)
+
+
+# Project Ideas 
+
+**CB**
+- Utilize grid for physical elements - enables us to manipulate data
+- An algorithm to decide:
+  - Available spaces
+  - Occupied spaces
+  - opponent pieces
+- Flip board every turn (2-player game - hotseat)
+- Function for jumping over opponents piece (score)
+- Function for reaching the end of the table (turn into king)
+- Function to remove a piece after scoring
+
+**Ribbit**
+- Utilize grid for physical elements - enables us to manipulate
+- Moving elements which traverse up / down
+- reference to the frog (if next cell == frog, frog = dead)
+- Score system for reaching end 
+- level system?
+
+**Sir Clicks a lot**
+- Keep track of 'clicks' 
+- Level System: change based off # of succesful clicks 
+- Each level gets more diffuclt:
+  - IF: idiot game - each level messes with the user more (more obnoxious - lots of CSS stuff here)
+  - IF: Idle Clicker - no levels, rather keep track of clicks, currency, upgrades, achievments
+  - Different type of influences on currency / income 
+- Event listener / handler for button clicks 
+
